@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cocolino1221
+- 👋 Hi, I’m @Coco
 - 👀 I’m interested in Testing
 - 💞️ I’m looking to collaborate on Automation testing
 - 📫 How to reach me pristavita.constantin@gmail.com
